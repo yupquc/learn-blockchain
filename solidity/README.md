@@ -1,4 +1,4 @@
-## Tabhle of Contents
+## Table of Contents
 
 ## [Solidity Tutorial](/1.Tutorials)
 
